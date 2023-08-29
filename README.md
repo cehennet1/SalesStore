@@ -1,6 +1,9 @@
 # SalesStore
-  pratik amaçlı yaptığım bilgisayar satış mağazası web sitem ve kaynak kodaları burada mevcut
- ---------------------------------------------------------------------------------------------- #
+   
+     pratik amaçlı yaptığım bilgisayar satış mağazası web sitem ve kaynak kodaları burada mevcut
+  
+ *********************************************************************
+
 Sitemin amacı : Bilgisayar Satış Mağazamın Web Sitesi.
 
 Üye Ol : Burada web sitesi müşterilerin hoşuna gider ya da indirimlerden bildirim almak isterse gerekli bilgileri girer. Bu bilgiler veritabanına eklenilir.
