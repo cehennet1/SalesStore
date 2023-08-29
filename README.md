@@ -18,4 +18,4 @@ Hazır Sistemler : Bu sayfamda oyunculara öncelik vererek hazır sistemler(Moni
 
 PC Toplama : Bu sayfa bilgisayar donanım ürünleri bulunduruyor. Müşteri buradan ihtiyacı olan donanım ürününü satın alabiliyor.
 
-Kampanyalar : İndirimde olan ürünler ve fiyat/performans ürünleri bu
+Kampanyalar : İndirimde olan ürünler ve fiyat/performans ürünleri burada yer almaktadır.
